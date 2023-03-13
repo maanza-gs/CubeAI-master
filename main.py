@@ -1,9 +1,3 @@
-'''
-    Team 4 - Ben Duggan & Connor Altic
-    8/17/19
-    Class with main gui class
-'''
-
 import time, argparse
 from main_gui import *
 from AIs import *
